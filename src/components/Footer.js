@@ -50,6 +50,7 @@ export default function Footer() {
     font-size:14px;
     width: 110px;
     margin-bottom: 21px;
+    text-decoration: none;
 
     &:hover{
       text-decoration: underline;

@@ -30,3 +30,14 @@
   width: 30px;
   object-fit: contain;
 }
+
+.nav__input{
+  position: fixed;
+  left : 80%;
+  transform: translate(-50%,0);
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  padding: 15px;
+  border: none;
+}
